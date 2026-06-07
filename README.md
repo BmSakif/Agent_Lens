@@ -5,10 +5,10 @@
 # AgentLens
 
 <p align="center">
-  <a href="https://github.com/BmSakif/Agent_Lens_backup/releases"><img src="https://img.shields.io/badge/Download-v1.0-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download"></a>
-  <a href="https://github.com/BmSakif/Agent_Lens_backup/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT"></a>
-  <a href="https://github.com/BmSakif/Agent_Lens_backup/issues"><img src="https://img.shields.io/badge/Issues-open-red?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/BmSakif/Agent_Lens_backup"><img src="https://img.shields.io/badge/Source-Code-gray?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/BmSakif/Agent_Lens/releases"><img src="https://img.shields.io/badge/Download-v1.0-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download"></a>
+  <a href="https://github.com/BmSakif/Agent_Lens/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://github.com/BmSakif/Agent_Lens/issues"><img src="https://img.shields.io/badge/Issues-open-red?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/BmSakif/Agent_Lens"><img src="https://img.shields.io/badge/Source-Code-gray?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 <p align="center">
